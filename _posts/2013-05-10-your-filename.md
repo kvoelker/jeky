@@ -1,6 +1,7 @@
 ---
 layout: default
 category: testing
+author: Kurt Voelker
 ---
 
 ## A New Post
